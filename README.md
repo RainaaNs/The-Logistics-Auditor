@@ -14,7 +14,7 @@ This project audits last-mile delivery performance across orders from the Olist 
 - **Notebook:** [Google Colab - the_logistics_auditor.ipynb](https://colab.research.google.com/drive/1BO5peqDecgsc4JkUM_tJJogTQW76v03j?usp=sharing)
 - **Dashboard:** *https://naaapp-master-9xph6xztpwyvbebvkczcbe.streamlit.app/*
 - **Presentation:** *https://ugedugh-my.sharepoint.com/:p:/g/personal/nsaaddo_st_ug_edu_gh/IQC7G6QPo8fTSYlmwIrMrwKkAd7YL1PWoN0F17xDlHR7rW0?e=04xj2f*
-- **Video Walkthrough (Optional):** *https://youtu.be/UH2mNOLQ3Ys*
+- **Video Walkthrough (Optional):** *[https://youtu.be/UH2mNOLQ3Ys](https://www.youtube.com/watch?v=UH2mNOLQ3Ys)*
 
 
 ---
